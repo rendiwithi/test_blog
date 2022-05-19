@@ -1,16 +1,21 @@
-# test_blog
 
-A new Flutter project.
+# Test Blog
 
-## Getting Started
+Test blog adalah aplikasi yang mempunyai tujuan melakukan CRUD sederhana dengan field title dan description dilengkapi shared preference 
 
-This project is a starting point for a Flutter application.
+# Test Blog
 
-A few resources to get you started if this is your first Flutter project:
+Test blog adalah aplikasi yang mempunyai tujuan melakukan CRUD sederhana dengan field title dan description dilengkapi shared preference 
+## Fungsi Folder
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+| Folder             | Fungsi                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Screen            | Menyimpan code yang berhubungan langsung dengan setiap screen pada aplikasi|
+| Widget            | Menyimpan code yang dibutuhkan oleh file pada folder Screen|
+| Model             | Menyimpan code yang di butuhkan untuk model class dan RestApi|
+| variable global   | Menyimpan data untuk memudahkan mengakses token|
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+- [@rendiwithi](https://github.com/rendiwithi)
